@@ -1,0 +1,7 @@
+*.pyc
+*.sh~
+*.py~
+*.conf
+*.log
+*.un~
+.swp*
